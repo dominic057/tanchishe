@@ -1,0 +1,4 @@
+﻿  unit.cpp
+D:\study\c++专业课\贪吃蛇副本\snake_game\unit.cpp(39,21): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\study\c++专业课\贪吃蛇副本\snake_game\unit.cpp(39,23): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  snake_game.vcxproj -> D:\study\c++专业课\贪吃蛇副本\snake_game\Debug\snake_game.exe

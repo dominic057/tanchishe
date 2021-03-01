@@ -1,0 +1,2 @@
+D:\study\c++专业课\贪吃蛇副本\snake_game\Debug\snake_game.exe
+D:\study\c++专业课\贪吃蛇副本\snake_game\Debug\snake_game.pdb
